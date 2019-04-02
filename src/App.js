@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import 'semantic-ui-css/semantic.min.css';
 import NavBar from './components/navBar';
+import LandingPage from './components/landingPage';
 
 class App extends Component {
   render() {
@@ -9,7 +10,7 @@ class App extends Component {
       <div className="App">
         <NavBar />
         <header className="App-header">
-          <h2>Mentorship 101</h2>
+          <LandingPage />
         </header>
       </div>
     );
