@@ -17,7 +17,7 @@ class Login extends Component {
             <Header as="h2" textAlign="center">
               Login
             </Header>
-                    <Segment style={{ backgroundColor: "#60656d" }}>
+            <Segment style={{ backgroundColor: "#60656d" }}>
               <Form size="large">
                 <Form.Input
                   fluid
@@ -38,7 +38,7 @@ class Login extends Component {
                 </Button>
               </Form>
             </Segment>
-                    <Message style={{ backgroundColor: "#fff" }}>
+            <Message style={{ backgroundColor: "#fff" }}>
               Not registered yet? <a href="#d">Sign Up</a>
             </Message>
           </Grid.Column>
