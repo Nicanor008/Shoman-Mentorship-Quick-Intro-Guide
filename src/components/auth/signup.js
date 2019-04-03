@@ -9,20 +9,26 @@ import {
   Segment
 } from "semantic-ui-react";
 
-class Login extends Component {
+class SignUp extends Component {
   render() {
     return (
       <div>
         <Grid columns="two" className="ui container" centered>
           <Grid.Column style={{ backgroundColor: "#585c63" }}>
             <Header as="h2" textAlign="center">
-              Login
+              Sign Up
             </Header>
             <Segment style={{ backgroundColor: "#60656d" }}>
               <Form size="large">
                 <Form.Input
                   fluid
                   icon="user"
+                  iconPosition="left"
+                  placeholder="Your Name"
+                />
+                <Form.Input
+                  fluid
+                  icon="mail"
                   iconPosition="left"
                   placeholder="Email address"
                 />
@@ -33,14 +39,27 @@ class Login extends Component {
                   placeholder="Password"
                   type="password"
                 />
-
+                <Form.Input
+                  fluid
+                  icon="won"
+                  iconPosition="left"
+                  placeholder="Confirm Password"
+                  type="password"
+                />
+                <Form.Input
+                  fluid
+                  icon="th"
+                  iconPosition="left"
+                  placeholder="What's your interest"
+                  type="text"
+                />
                 <Button color="blue" fluid size="large">
-                  Login
+                  Sign Up
                 </Button>
               </Form>
             </Segment>
             <Message style={{ backgroundColor: "#fff" }}>
-              Not registered yet? <Link to="/signup">Sign Up</Link>
+              Got an account, <Link to="/login">Login</Link>
             </Message>
           </Grid.Column>
         </Grid>
@@ -49,4 +68,4 @@ class Login extends Component {
   }
 }
 
-export default Login;
+export default SignUp;

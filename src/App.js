@@ -7,6 +7,7 @@ import LandingPage from './components/landingPage';
 import Login from './components/auth/login';
 import Career from './components/career';
 import Mentors from './components/mentors';
+import SignUp from './components/auth/signup';
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
           <Switch>
             <Route exact path="/" component={LandingPage} />
             <Route exact path="/login" component={Login} />
+            <Route exact path="/signup" component={SignUp} />
             <Route exact path="/career-advice" component={Career} /> 
             <Route exact path="/mentors" component={Mentors} />
           </Switch>
