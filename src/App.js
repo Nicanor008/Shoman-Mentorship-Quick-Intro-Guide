@@ -10,6 +10,7 @@ import Mentors from './components/mentors';
 import SignUp from './components/auth/signup';
 import Learning from './components/learning';
 import "bootstrap/dist/css/bootstrap.css";
+import SingleCourse from './components/learning/singleCourse';
 
 class App extends Component {
   render() {
@@ -24,6 +25,7 @@ class App extends Component {
             <Route exact path="/career-advice" component={Career} /> 
             <Route exact path="/mentors" component={Mentors} />
             <Route exact path="/home" component={Learning} />
+            <Route exact path="/learn" component={SingleCourse} />
           </Switch>
         </header>
       </div>

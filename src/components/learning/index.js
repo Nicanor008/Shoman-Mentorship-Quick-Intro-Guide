@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Card } from "semantic-ui-react";
+import { Link } from "react-router-dom";
 
 export default class Learning extends Component {
   render() {
@@ -13,12 +14,14 @@ export default class Learning extends Component {
         <br />
         <div className="row">
           <div className="col-md-3">
-            <Card
-              style={{ backgroundColor: "#9c9fa5", color: "white" }}
-              image="https://images.unsplash.com/photo-1495558761807-e324eceafffa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-              header="HTML"
-              description="Nicanor is a sound software engineer"
-            />
+            <Link to="/learn">
+              <Card
+                style={{ backgroundColor: "#9c9fa5", color: "white" }}
+                image="https://images.unsplash.com/photo-1553484771-4e29a68540f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+                header="HTML"
+                description="Nicanor is a sound software engineer"
+              />
+            </Link>
           </div>
           <div className="col-md-3">
             <Card
