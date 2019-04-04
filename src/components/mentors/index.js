@@ -2,7 +2,7 @@ import React from "react";
 import { Grid, Card, Icon } from "semantic-ui-react";
 
 const extra = (
-  <a>
+  <a href="#dsd">
     <Icon name="user" />
     Software Engineer
   </a>

@@ -8,6 +8,8 @@ import Login from './components/auth/login';
 import Career from './components/career';
 import Mentors from './components/mentors';
 import SignUp from './components/auth/signup';
+import Learning from './components/learning';
+import "bootstrap/dist/css/bootstrap.css";
 
 class App extends Component {
   render() {
@@ -21,6 +23,7 @@ class App extends Component {
             <Route exact path="/signup" component={SignUp} />
             <Route exact path="/career-advice" component={Career} /> 
             <Route exact path="/mentors" component={Mentors} />
+            <Route exact path="/home" component={Learning} />
           </Switch>
         </header>
       </div>

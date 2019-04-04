@@ -54,7 +54,7 @@ class SignUp extends Component {
                   type="text"
                 />
                 <Button color="blue" fluid size="large">
-                  Sign Up
+                    <Link to="/home">Sign Up</Link>
                 </Button>
               </Form>
             </Segment>

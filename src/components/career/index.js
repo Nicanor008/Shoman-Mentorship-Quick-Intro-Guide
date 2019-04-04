@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Header, Grid, List, Card, Message } from "semantic-ui-react";
+import { Header, Grid, List, Message } from "semantic-ui-react";
 
 export default class Career extends Component {
   render() {

@@ -35,7 +35,7 @@ class Login extends Component {
                 />
 
                 <Button color="blue" fluid size="large">
-                  Login
+                    <Link to="/home">Login</Link>
                 </Button>
               </Form>
             </Segment>

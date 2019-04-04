@@ -14,33 +14,44 @@ export default class NavBar extends Component {
       <div className="ui justified">
         <Menu className="ui inverted menu">
           <div className="ui justified container">
-            <Link to="/" >            
-            <Menu.Item
-              name="home"
-              active={activeItem === "home"}
-              onClick={this.handleItemClick}
-              />
-            </Link>
-            <Link to="/mentors" >            
-            <Menu.Item
-              name="Mentors"
-              active={activeItem === "Mentors"}
-              onClick={this.handleItemClick}
-              />
-            </Link>
-            <Link to="/career-advice" >            
-            <Menu.Item
-              name="Career Advice"
-              active={activeItem === "Career Advice"}
-              onClick={this.handleItemClick}
-              />
-              </Link>
-            <Menu.Menu position="right">
-              <Link to="/login" >
+            <Link to="/">
               <Menu.Item
-                name="Get Started"
-                active={activeItem === "Get Started"}
+                name="home"
+                active={activeItem === "home"}
                 onClick={this.handleItemClick}
+              />
+            </Link>
+            {/* ***********************   user has login successfully   *************************** */}
+
+            <Link to="/progress">
+              <Menu.Item
+                name="My Progress"
+                active={activeItem === "My Progress"}
+                onClick={this.handleItemClick}
+              />
+            </Link>
+
+            {/* ***********************   end of content for user who has logged in   *************************** */}
+            <Link to="/mentors">
+              <Menu.Item
+                name="Mentors"
+                active={activeItem === "Mentors"}
+                onClick={this.handleItemClick}
+              />
+            </Link>
+            <Link to="/career-advice">
+              <Menu.Item
+                name="Career Advice"
+                active={activeItem === "Career Advice"}
+                onClick={this.handleItemClick}
+              />
+            </Link>
+            <Menu.Menu position="right">
+              <Link to="/login">
+                <Menu.Item
+                  name="Get Started"
+                  active={activeItem === "Get Started"}
+                  onClick={this.handleItemClick}
                 />
               </Link>
             </Menu.Menu>
