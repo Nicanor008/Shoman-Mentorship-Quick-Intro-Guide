@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [GIT - Version Control](git-version-control.md)
 * [HTML BASICS](html/README.md)
 * [CSS](css-basics/README.md)
   * [Heights and Width](css-basics/heights-and-width.md)
@@ -10,6 +11,5 @@
   * [CSS Display](css-basics/css-display.md)
   * [Putting All together](css-basics/putting-all-together.md)
   * [CSS Colors](css-basics/css-colors.md)
-* [GIT - Version Control](git-version-control.md)
 * [API](api.md)
 
