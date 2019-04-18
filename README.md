@@ -1,4 +1,14 @@
+---
+description: What's all this
+---
+
 # Overview
+
+## This project isn't yet complete - But you can actually learn something good in the meanwhile
+
+```text
+aclamaciones(es) - Cheers(en)
+```
 
 ## Overview
 
@@ -15,19 +25,19 @@ Aim - **Provide Guidance to beginners or anyone with need in software path**
 
 ### Keep in Mind that
 
-### Where to Start
-
 Everything has been simplified to find, read, use and understand. 
 
 **Note:** If you already understand something, you can skip by just using the menu navigation bar and go through Other advanced part. Also there are links to more advanced stuff\(`coz mostly these are basics`\).
 
+### Exact Content - \`Honey\`
+
 In here, We have:
 
-* Version Control
-* HTML
-* CSS
+* [Version Control](https://mentorship101.gitbook.io/mentorship-101/git-version-control)
+* [HTML](https://mentorship101.gitbook.io/mentorship-101/html)
+* [CSS](https://mentorship101.gitbook.io/mentorship-101/css-basics)
 * JavaScript
-* API
+* [API](https://mentorship101.gitbook.io/mentorship-101/api)
 * Soft skills for software developers
 
 ### Getting The best
