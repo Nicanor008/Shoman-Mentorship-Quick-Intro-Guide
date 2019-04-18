@@ -1,11 +1,11 @@
-## HTML BASICS
+# HTML BASICS
 
-### What You First Need
+## What You First Need
 
 * An editor e.g. VSCode, sublime, atom, or any editor of your choice.
 * Browser e.g. Chrome, mozilla firefox are best due to good interactivity in the developer tools
 
-### How to start Up
+## How to start Up
 
 * Create a folder for your projects, `mentorship`
 * create a new file `first-file.html` 
@@ -19,7 +19,7 @@ To understand more, always keep referring to [W3schools](https://www.w3schools.c
 
 I like W3Schools because it explains the very basics in a simple language. A thumbs up, they have an online editor.
 
-### What you must know at the end of this
+## What you must know at the end of this
 
 * [ ] **HTML Elements**\( structure\)
 
@@ -133,7 +133,7 @@ This is multi line comments
 
 **&lt;br&gt;** - Break to the next line
 
-### So How does this come up all together
+## So How does this come up all together
 
 First create a new file on your editor, `index.html`. Paste or combine the above codes in the **body** tags
 
@@ -192,11 +192,11 @@ To execute this file, right click on your editor\(e.g. **VSCode**\), and copy pa
 
 On **Sublime**, right click on the file and click open in browser.
 
-### Note
+## Note
 
 The list above is a list of the very important things you must know before proceeding. They are the building blocks of the web document. There are a lot to this. Read more on [W3Schools](https://www.w3schools.com/html/html_elements.asp) to understand in-depth of all HTML contents
 
-### So What Next?
+## So What Next?
 
 If you have gone through the above basic HTML codes and comfortable, you can start up styling using CSS\(Cascading Style Sheets\). This what makes pages lively by adding some life and color to web content.
 

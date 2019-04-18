@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [GIT - Version Control](git-version-control.md)
-* [HTML BASICS](html/README.md)
+* [HTML BASICS](html.md)
 * [CSS](css-basics/README.md)
   * [Heights and Width](css-basics/heights-and-width.md)
   * [Margin, Padding and Borders](css-basics/margin-and-padding.md)
