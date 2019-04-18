@@ -29,9 +29,9 @@ Everything has been simplified to find, read, use and understand.
 
 **Note:** If you already understand something, you can skip by just using the menu navigation bar and go through Other advanced part. Also there are links to more advanced stuff\(`coz mostly these are basics`\).
 
-### Exact Content - \`Honey\`
+Good to learn as you `code`.
 
-In here, We have:
+### Exact Content - \`Honey\`
 
 * [Version Control](https://mentorship101.gitbook.io/mentorship-101/git-version-control)
 * [HTML](https://mentorship101.gitbook.io/mentorship-101/html)
@@ -42,11 +42,7 @@ In here, We have:
 
 ### NOT PLEASED/ GOT FEEDBACK
 
-One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?
-
-You got anything, Send your feedback on this google form `link coming soon` 
-
-
+One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?You got anything, Send your feedback on this google form `link coming soon` 
 
 ### Who is Behind All This
 
