@@ -2,7 +2,7 @@
 description: What's all this
 ---
 
-# Overview
+# Mentorship 101
 
 ## This project isn't yet complete - But you can actually learn something good in the meanwhile
 
@@ -50,7 +50,7 @@ You got anything, Send your feedback on this google form `link coming soon`
 
 ### Who is Behind All This
 
-Created by Nicanor Korir `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced.
+Created by [Nicanor Korir](https://nicanorkip.herokuapp.com/) `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced.
 
 ![Nic Korir](.gitbook/assets/screenshot-2019-04-18-at-18.20.32.png)
 
@@ -58,11 +58,13 @@ Want a talk, find me on [Twitter](https://twitter.com/nic_korir).
 
 ### Join me as a Contributor to this
 
-You believe you got what it takes to showcase your knowledge here, feel free to join me up on [github](https://github.com/Nicanor008/Mentorship-101). You ofcourse know contribution rules
+You believe you got what it takes to showcase your knowledge here, feel free to join me up on [github](https://github.com/Nicanor008/Mentorship-101). You got this dude.
 
 
 
+{% hint style="info" %}
 > Always adhere to KISS Principle \(Keep It Simple, Stupid\)
+{% endhint %}
 
 
 

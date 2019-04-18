@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Mentorship 101](README.md)
 * [GIT - Version Control](git-version-control.md)
 * [HTML BASICS](html.md)
 * [CSS](css-basics/README.md)
