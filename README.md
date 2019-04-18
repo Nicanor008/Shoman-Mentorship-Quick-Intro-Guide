@@ -21,7 +21,7 @@ Aim - **Provide Guidance to beginners or anyone with need in software path**
 * Guidance on where to start 
 * How to write specific codes
 * Learning resources
-* Opportunity to ask for what you like here
+* Opportunity to ask for what you like here `link coming soon`
 
 ### Keep in Mind that
 
@@ -40,13 +40,25 @@ In here, We have:
 * [API](https://mentorship101.gitbook.io/mentorship-101/api)
 * Soft skills for software developers
 
-### Getting The best
+### NOT PLEASED/ GOT FEEDBACK
+
+One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?
+
+You got anything, Send your feedback on this google form `link coming soon` 
 
 
 
 ### Who is Behind All This
 
+Created by Nicanor Korir `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced.
 
+![Nic Korir](.gitbook/assets/screenshot-2019-04-18-at-18.20.32.png)
+
+Want a talk, find me on [Twitter](https://twitter.com/nic_korir).
+
+### Join me as a Contributor to this
+
+You believe you got what it takes to showcase your knowledge here, feel free to join me up on [github](https://github.com/Nicanor008/Mentorship-101). You ofcourse know contribution rules
 
 
 
