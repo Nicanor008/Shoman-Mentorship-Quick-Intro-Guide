@@ -69,6 +69,39 @@ git config --list
 Git uses linux commands.
 {% endhint %}
 
+### Where to start
+
+Two ways:
+
+1. **Create a project\(repo\) on Github**
+
+A **repository**\(repo\) is like a folder for your project. Login to your Github account and follow the steps below:
+
+* [ ] In the upper-right corner of any page, click +, and then click **New repository**.
+* [ ] In the Owner drop-down, select the account you wish to create the repository on.
+* [ ] Type a name for your repository, and an optional description.
+* [ ] Choose to make the repository either public or private. **Public repositories** are visible to the public, while **private repositories** are only accessible to you, and people you share them with. 
+* [ ] Optionally choose to add README\(instructions doc for your project\), license and a gitignore \(what should not be sent to remote server\)
+* [ ] When you're finished, click **Create repository**.
+* [ ] To get started locally, click on **clone/download** on your created repo. Copy the link.
+
+![](.gitbook/assets/screenshot-2019-04-19-at-08.28.03.png)
+
+* [ ] Paste the link after `git clone ...` 
+* [ ] check into the cloned repo `cd cloned-repo-name` . You can do `ls` to see the name of the cloned repo.
+* [ ] Open your text editor here e.g. `code .`  to open VSCode while in that project.
+* [ ] `Happy Coding` 
+* [ ] After you satisfy that you have done enough coding, then it's time to send your codes to Github.
+* [ ] `git status` to know what files you have edited
+* [ ] `git add .`  to add all files or `git add filename.extension` to add single file
+* [ ] `git commit -m "editing of files done` to add a snapshot for Github recognition
+* [ ] `git push origin master` to send codes to Github. **Note** `master` can be replaced with your branch name.
+* [ ] `emocionado (es) - Exicited (en)` 
+
+2. **Initialise a project locally**
+
+Let's say you had an existing project locally and want on Github for some reason.
+
 ### Common Git commands used
 
 ```text
@@ -89,7 +122,7 @@ git pull - brings remote(server) changes to local(your project)
 ```
 
 {% hint style="info" %}
-There are a lot of git commands. For beginners, don't hurry to know all of them. but if you much curious, check out [here](https://github.com/joshnh/Git-Commands)
+There are a lot of git commands. For beginners, don't hurry to know all of them. but if you much curious, check out [here](https://github.com/joshnh/Git-Commands) and [this](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) explains meaning of all git commands
 {% endhint %}
 
 
