@@ -98,9 +98,31 @@ A **repository**\(repo\) is like a folder for your project. Login to your Github
 * [ ] `git push origin master` to send codes to Github. **Note** `master` can be replaced with your branch name.
 * [ ] `emocionado (es) - Exicited (en)` 
 
-2. **Initialise a project locally**
 
-Let's say you had an existing project locally and want on Github for some reason.
+
+     2. **Initialise a project locally**
+
+Let's say you had an existing project locally and want on Github for some reason. Steps:
+
+* [ ] First create a new repo on Github, in the upper-right corner of any page, click +, and then click **New repository**.
+* [ ] Open terminal\(linux/mac\), \(windows\) right click on project and open gitbash.
+* [ ] Navigate to your local project \(cd .....\)
+* [ ] Initialize the local directory as a Git repository. `git init` 
+* [ ] Add the files in your new local repository. This stages them for the first commit. `git add .`  
+* [ ] Commit the files that you've staged in your local repository. `git commit -m "Initial Commit"` 
+* [ ] On github repo, at the top of your GitHub repository's Quick Setup page, click to copy the remote repository URL.
+* [ ] In Terminal, add the URL for the remote repo where your local repository will be pushed.
+
+  ```text
+  git remote add origin remote repository URL
+  # e.g. git remote add origin remote https://github.com/Nicanor008/Mentorship-101.git
+  ```
+
+* [ ] Push the changes in your local repository to GitHub.
+
+  ```text
+  git push -u origin master
+  ```
 
 ### Common Git commands used
 
@@ -125,15 +147,7 @@ git pull - brings remote(server) changes to local(your project)
 There are a lot of git commands. For beginners, don't hurry to know all of them. but if you much curious, check out [here](https://github.com/joshnh/Git-Commands) and [this](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) explains meaning of all git commands
 {% endhint %}
 
+### Time For More
 
-
-
-
-
-
-
-
-
-
-
+Now that you've understood all the above, it's now time to understand key concepts in Version Control.
 
