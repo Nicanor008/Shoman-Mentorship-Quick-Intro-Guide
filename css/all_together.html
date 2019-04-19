@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Putting Together</title>
+    <style>
+        .wrapper{
+            width: 100%;
+            height: auto;
+        }
+        .content-wrapper {
+            width: 80%;
+            height: auto;
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+        .nav-bar {
+            height: 60px;
+            padding-top: 15px;
+            background-color: rgb(70, 69, 69);
+            border-radius: 10px;
+        }
+        .nav-wrapper {
+            width: 80%;
+            height: auto;
+            margin-left: 10%;
+            margin-right: 10%;
+            color: rgb(241, 237, 237);
+        }
+        .title {
+            font-size: 30px;
+            font-weight: bold;
+            width: 20%;
+            float: left;
+            font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+        }
+        #primary_nav_wrap {
+            float: right;
+            margin-top:15px
+        }
+
+        #primary_nav_wrap ul {
+            list-style:none;
+            position:relative;
+            float:left;
+            margin:0;
+            padding:0
+        }
+
+        #primary_nav_wrap ul a {
+            display:block;
+            color:rgb(245, 238, 238);
+            text-decoration:none;
+            font-weight:700;
+            font-size:12px;
+            line-height:32px;
+            padding:0 15px;
+            font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+        }
+
+        #primary_nav_wrap ul li {
+            position:relative;
+            float:left;
+            margin:0;
+            padding:0
+        }
+
+        #primary_nav_wrap ul li.current-menu-item {
+            background:rgb(187, 134, 134);
+            color: #fff;
+        }
+
+        #primary_nav_wrap ul li:hover {
+            background:#a06c6c
+        }
+
+        #primary_nav_wrap ul ul {
+            display:none;
+            position:absolute;
+            top:100%;
+            left:0;
+            background:rgb(85, 75, 75);
+            padding:0
+        }
+
+        #primary_nav_wrap ul ul li {
+            float:none;
+            width:200px
+        }
+
+        #primary_nav_wrap ul ul a {
+            line-height:120%;
+            padding:10px 15px
+        }
+
+        #primary_nav_wrap ul li:hover > ul {
+            display:block
+        }
+        .side-bar {
+            width: 20%;
+            float: left;
+            background-color: #bfc2b227;
+            margin-right: 5px;
+        }
+        .side-bar > h2 {
+            text-align: center;
+        }
+        .side-bar > p {
+            padding-top: 10px;
+            padding-left: 27px;
+        }
+        .side-bar > p:hover {
+            cursor: pointer;
+            color: rgb(60, 60, 233);
+            padding-left: 4px;
+            font-weight: bold;
+        }
+        .body-content {
+            width: 75%;
+            float: left;
+            background-color: #d5d6d127;
+            padding: 30px;
+        }
+        .content {
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!-- nav bar -->
+        <div class="nav-bar">
+            <div class="nav-wrapper">
+                <div class="title">
+                    HTML + CSS
+                </div>
+                <div class="menu">
+                    <nav id="primary_nav_wrap">
+                        <ul>
+                            <li class="current-menu-item"><a href="#">Home</a></li>
+                            <li><a href="#">Categories</a>
+                                <ul>
+                                    <li><a href="#">Sub Menu 1</a></li>
+                                    <li><a href="#">Sub Menu 2</a></li>
+                                    <li><a href="#">Sub Menu 3</a></li>
+                                    <li><a href="#">Sub Menu 4</a></li>
+                                    <li><a href="#">Sub Menu 5</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Services</a>
+                                <ul>
+                                    <li><a href="#">Sub Menu 1</a></li>
+                                    <li><a href="#">Sub Menu 2</a></li>
+                                    <li><a href="#">Sub Menu 3</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">About US</a></li>
+                            <li><a href="#">Work With Us</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Login</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrapper">
+        <!-- body content-->
+        <div class="body-wrapper">
+
+            <!-- side bar -->
+            <div class="side-bar">
+                <h2><u>Popular Articles</u></h2>
+                <p>What's Lorem Ipsum</p>
+                <p>What's Lorem Ipsum</p>
+                <p>What's Lorem Ipsum</p>
+                <p>What's Lorem Ipsum</p>
+                <p>What's Lorem Ipsum</p>
+            </div>
+
+            <!-- body content -->
+            <div class="body-content">
+
+                <!-- first content -->
+                <div class="content">
+                    <div class="header"><h2>Lorem Ipsum</h2></div>
+                    <div class="paragraph">Nisi incididunt duis dolore velit in. Dolor in dolor veniam culpa. Fugiat ea laboris
+                        exercitation non esse. Lorem ullamco do cillum minim occaecat esse qui anim duis eiusmod magna commodo enim. 
+                        Irure in commodo enim eiusmod in sunt ex aute aliquip occaecat sint cupidatat do irure. Dolore nulla laborum 
+                        aute elit ipsum elit quis adipisicing labore aliquip officia amet ad fugiat.
+                    </div>
+                </div>
+                <hr />
+
+                <!-- second content -->
+                <div class="content">
+                    <div class="header"><h2>Lorem Ipsum</h2></div>
+                    <div class="paragraph">Nisi incididunt duis dolore velit in. Dolor in dolor veniam culpa. Fugiat ea laboris
+                        exercitation non esse. Lorem ullamco do cillum minim occaecat esse qui anim duis eiusmod magna commodo enim.
+                        Irure in commodo enim eiusmod in sunt ex aute aliquip occaecat sint cupidatat do irure. Dolore nulla laborum
+                        aute elit ipsum elit quis adipisicing labore aliquip officia amet ad fugiat.
+                    </div>
+                </div>
+                <hr />
+
+                <!-- third content -->
+                <div class="content">
+                    <div class="header"><h2>Lorem Ipsum</h2></div>
+                    <div class="paragraph">Nisi incididunt duis dolore velit in. Dolor in dolor veniam culpa. Fugiat ea laboris
+                        exercitation non esse. Lorem ullamco do cillum minim occaecat esse qui anim duis eiusmod magna commodo enim.
+                        Irure in commodo enim eiusmod in sunt ex aute aliquip occaecat sint cupidatat do irure. Dolore nulla laborum
+                        aute elit ipsum elit quis adipisicing labore aliquip officia amet ad fugiat.
+                    </div>
+                </div>
+                <hr />
+
+                <!-- fourth content -->
+                <div class="content">
+                    <div class="header"><h2>Lorem Ipsum</h2></div>
+                    <div class="paragraph">Nisi incididunt duis dolore velit in. Dolor in dolor veniam culpa. Fugiat ea laboris
+                        exercitation non esse. Lorem ullamco do cillum minim occaecat esse qui anim duis eiusmod magna commodo enim.
+                        Irure in commodo enim eiusmod in sunt ex aute aliquip occaecat sint cupidatat do irure. Dolore nulla laborum
+                        aute elit ipsum elit quis adipisicing labore aliquip officia amet ad fugiat.
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
