@@ -10,7 +10,7 @@ Any project you make will have all these things in one place\(file/directory\). 
 
 I have included some other advanced stuff like fonts, position , colors that you haven't taken a look, `But you learning right` - I trust this is always a good way of learning `learning as you do in a mini-project` 
 
-I have done everything in a single file `all_together.html` .It will be better if you obtain the codes from github here, because the file is too large.
+I have done everything in a single file `all_together.html` .It will be better if you obtain the [codes from github here](https://github.com/Nicanor008/Mentorship-101/blob/master/css/all_together.html), because the file is too large.
 
 Moreover, I'll show you the screenshot output once you also execute it on the browser.
 
