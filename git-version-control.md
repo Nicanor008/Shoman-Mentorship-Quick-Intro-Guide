@@ -158,6 +158,22 @@ Now that you've understood all the above, it's now time to understand key concep
 * Rebase
 * Squash
 
+### Git Branching
+
+This is an important aspect when it comes to code collaboration. It allows you to test out what your working on independently while in a team. Create your own branch and later that branch will be combined with the major team branch
+
+`Master` branch is always created by default by github. 
+
+`Base branch` is the default branch.
+
+To create your own branch , make sure you are in a base branch, then in terminal/gitbash
+
+```text
+git checkout -b my-new-branch-name-here
+```
+
+Make changes to your code and then push them to github. There will be no effect on the base branch until merging is done.
+
 ### A Little Exercise
 
 I believe you have learnt something about project collaboration. Let's see what you have got.
@@ -166,7 +182,7 @@ I believe you have learnt something about project collaboration. Let's see what 
 Create your own branch
 {% endhint %}
 
-* [ ] Go to Mentorship 101 github repo
+* [ ] Go to [Mentorship 101 github repo](https://github.com/Nicanor008/Mentorship-101)
 * [ ] Clone it
 * [ ] Create a some new files, you can write anything 😁 in the files
 * [ ] Push them to github
