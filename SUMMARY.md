@@ -13,3 +13,5 @@
   * [Putting All together](css-basics/putting-all-together.md)
   * [CSS Resources](css-basics/css-resources.md)
 * [API](api.md)
+* [JavaScript](javascript.md)
+
