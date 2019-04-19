@@ -64,5 +64,3 @@ a { color: hotpink; }
 
 ![result of css links](../.gitbook/assets/screen-shot-2019-04-11-at-07.28.58.png)
 
-
-

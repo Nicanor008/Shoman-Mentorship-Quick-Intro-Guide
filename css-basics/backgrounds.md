@@ -97,5 +97,3 @@ Veniam nisi reprehenderit veniam et dolore exercitation nisi. Fugiat non aute ad
 
 ![end result of image background](../.gitbook/assets/screen-shot-2019-04-11-at-07.01.40.png)
 
-
-

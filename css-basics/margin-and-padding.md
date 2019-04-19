@@ -58,8 +58,6 @@ All three above in One file
 </html>
 ```
 
-
-
 **Overlook on this**
 
 ```text
@@ -78,13 +76,7 @@ All three above in One file
 
 **ToNote the difference**: Margin has the border close enough while padding leaves some space between element content and the border.
 
-
-
 ```text
-sintiéndome(es) - Feeling Me
+sintiéndome(es) - Feeling Me(En)
 ```
-
-
-
-
 

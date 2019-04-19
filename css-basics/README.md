@@ -71,8 +71,6 @@ Actually it depends with you. It's always advisable to use external file css. Ho
 * Internal stylesheet
 * Inline stylesheet
 
-
-
 ### Now What?
 
 Now that you have understood the basics of how to add the css in the HTML, lets get to know some important CSS stuff. **esto es divertido\(es\)** - This is fun.
@@ -91,16 +89,4 @@ Now that you have understood the basics of how to add the css in the HTML, lets 
 * [ ] Position
 * [ ] Overflow
 * [ ] Forms
-
-
-
-#### 
-
-
-
-
-
-
-
-
 
