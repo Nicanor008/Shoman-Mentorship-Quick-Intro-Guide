@@ -21,7 +21,7 @@ Aim - **Provide Guidance to beginners or anyone with need in software path**
 * Guidance on where to start 
 * How to write specific codes
 * Learning resources
-* Opportunity to ask for what you like here `link coming soon`
+* Opportunity to ask for what you like [here](https://forms.gle/pXbfvrNVbaUewfJp8)
 
 ### Keep in Mind that
 
@@ -42,7 +42,7 @@ Good to learn as you `code`.
 
 ### NOT PLEASED/ GOT FEEDBACK
 
-One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?You got anything, Send your feedback on this google form `link coming soon` 
+One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?You got anything, Send your feedback on [this google form](https://forms.gle/pXbfvrNVbaUewfJp8) 
 
 ### Who is Behind All This
 
