@@ -2,7 +2,7 @@
 description: What's all this
 ---
 
-# Mentorship 101
+# Coding 101
 
 ## This project isn't yet complete - But you can actually learn something good in the meanwhile
 
@@ -12,7 +12,7 @@ aclamaciones(es) - Cheers(en)
 
 ## Overview
 
-Mentorship 101 **key focus is to help those who have interest in learning software development on where and how to start.**
+Coding 101 **key focus is to help those who have interest in learning software development on where and how to start.**
 
 Aim - **Provide Guidance to beginners or anyone with need in software path**
 

@@ -7,7 +7,7 @@
 
 ## How to start Up
 
-* Create a folder for your projects, `mentorship`
+* Create a folder for your projects, `Coding101`
 * create a new file `first-file.html` 
 * Learn below, you can copy and paste codes below to make work easier, but make you understand.
 * To execute/view results, 
