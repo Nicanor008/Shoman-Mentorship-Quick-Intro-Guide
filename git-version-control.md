@@ -149,5 +149,31 @@ There are a lot of git commands. For beginners, don't hurry to know all of them.
 
 ### Time For More
 
-Now that you've understood all the above, it's now time to understand key concepts in Version Control.
+Now that you've understood all the above, it's now time to understand key concepts in Version Control. These entails:
+
+* Branching
+* Merging and merge conflicts
+* Commit History
+* Github Pages
+* Rebase
+* Squash
+
+### A Little Exercise
+
+I believe you have learnt something about project collaboration. Let's see what you have got.
+
+{% hint style="info" %}
+Create your own branch
+{% endhint %}
+
+* [ ] Go to Mentorship 101 github repo
+* [ ] Clone it
+* [ ] Create a some new files, you can write anything 😁 in the files
+* [ ] Push them to github
+
+{% hint style="info" %}
+You made it. Good Job. Do more practices. Happy git-ting
+{% endhint %}
+
+
 
