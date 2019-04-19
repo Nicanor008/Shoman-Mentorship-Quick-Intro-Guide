@@ -10,6 +10,7 @@
   * [Backgrounds](css-basics/backgrounds.md)
   * [CSS Links](css-basics/css-links.md)
   * [CSS Display](css-basics/css-display.md)
+  * [CSS Resources](css-basics/css-resources.md)
   * [Putting All together](css-basics/putting-all-together.md)
 * [API](api.md)
 
