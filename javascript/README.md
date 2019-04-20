@@ -72,3 +72,16 @@ function ExternalClick() {
 
 The button in both codes above has an event `onClick` that recognises the button has been clicked by a user and issues an alert dialog box.
 
+What You Will Learn
+
+* [ ] Introduction \(variables, data types, keywords\)
+* [ ] Conditions
+* [ ] Functions
+* [ ] JavaScript OOP
+* [ ] Objects and prototypes
+* [ ] Promises
+* [ ] Requests
+* [ ] ES6
+
+`Let's give users freedom` 
+
