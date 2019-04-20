@@ -15,4 +15,3 @@
 * [JavaScript](javascript.md)
 * [API](api.md)
 
-
