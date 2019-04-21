@@ -197,5 +197,3 @@ Create your own branch
 You made it. Good Job. Do more practices. Happy git-ting
 {% endhint %}
 
-
-

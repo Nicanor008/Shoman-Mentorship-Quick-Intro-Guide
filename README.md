@@ -50,11 +50,7 @@ Want a talk, find me on [Twitter](https://twitter.com/nic_korir).
 
 You believe you got what it takes to showcase your knowledge here, feel free to join me up on [github](https://github.com/Nicanor008/Mentorship-101). You got this dude.
 
-
-
 {% hint style="info" %}
 > Always adhere to KISS Principle \(Keep It Simple, Stupid\)
 {% endhint %}
-
-
 

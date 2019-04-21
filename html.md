@@ -133,6 +133,8 @@ This is multi line comments
 
 **&lt;br&gt;** - Break to the next line
 
+**&lt;hr /&gt; -** Horizontal line
+
 ## So How does this come up all together
 
 First create a new file on your editor, `index.html`. Paste or combine the above codes in the **body** tags
