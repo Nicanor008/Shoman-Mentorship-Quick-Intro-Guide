@@ -6,6 +6,8 @@ description: Be Part of a team
 
 **Version control** is a system that records changes to a file or set of files over time so that you can recall specific versions later. Versioning of files/projects.
 
+Curious on your own, go through [this git handbook](https://guides.github.com/introduction/git-handbook/).
+
 There are different [types of version control systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). **Distributed Version control system** remote repository which is stored in a server and a local repository which is stored in the computer of each developer. This means that the code is not just stored in a central server, but the full copy of the code is present in all the developers’ computers. Git is a Distributed Version Control System since the code is present in every developer’s computer.
 
 ![file versioning](.gitbook/assets/screenshot-2019-04-19-at-07.23.37.png)
@@ -173,6 +175,10 @@ git checkout -b my-new-branch-name-here
 ```
 
 Make changes to your code and then push them to github. There will be no effect on the base branch until merging is done.
+
+### Curious
+
+Want to learn more, go through [this git handbook](https://guides.github.com/introduction/git-handbook/).
 
 ### A Little Exercise
 
