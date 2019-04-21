@@ -4,12 +4,6 @@ description: What's all this
 
 # Coding 101
 
-## This project isn't yet complete - But you can actually learn something good in the meanwhile
-
-```text
-aclamaciones(es) - Cheers(en)
-```
-
 ## Overview
 
 Coding 101 **key focus is to help those who have interest in learning software development on where and how to start.**
