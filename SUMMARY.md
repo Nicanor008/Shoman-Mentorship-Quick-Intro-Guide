@@ -12,8 +12,8 @@
   * [CSS Display](css-basics/css-display.md)
   * [Putting All together](css-basics/putting-all-together.md)
   * [CSS Resources](css-basics/css-resources.md)
+* [General Programming](general-programming.md)
 * [JavaScript](javascript/README.md)
   * [JavaScript Resources](javascript/javascript-resources.md)
 * [API](api.md)
-* [General Programming](general-programming.md)
 
