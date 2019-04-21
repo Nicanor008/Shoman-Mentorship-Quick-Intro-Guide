@@ -9,7 +9,7 @@ This section will discuss about the general things that applies to all programmi
 * [x] What is programming
 * [x] Variables
 * [x] Data types
-* [ ] Keywords
+* [x] Keywords
 * [ ] Conditional Statements
 * [ ] Functions
 * [ ] OOP Concepts
@@ -23,6 +23,10 @@ We will discuss each and how it applies to programming.
 ### Definition Of Terms
 
 **Syntax** - Rules of a programming language. Every language has there own rules just like our natural languages
+
+**Algorithms** - Set of rules/instructions in problem solving. Step by step instructions for solving a problem.
+
+**Flowchart** - Diagramatic representation of an algorithm
 
 ### Variables
 
@@ -104,15 +108,9 @@ This includes combination of more than one data type, preferably integers, float
 * **Logical** Operators - `&&(AND) , OR(||), not(!)` 
 * **Relational** Operators- Used when making comparisons `>, <, >=, <=, equal to(==), not equal to(!=)` 
 
-More adavanced operators include **conditional Operator** that uses **tenary operator \(?\)** e.g.
+More advanced operators include **conditional Operator** that uses **ternary operator \(?\)** e.g.
 
 ```text
 expression1 ? expression2 : expression3 ;
 ```
-
-
-
-
-
-
 
