@@ -22,7 +22,7 @@ We will discuss each and how it applies to programming.
 
 ### Definition Of Terms
 
-**Syntax** - Rules of a programming language. Every language has there own rules just like our natural languages
+**Syntax** - Rules of a programming language. Every language has there own rules just like our natural languages. e.g. terminate every line with a semicolon at the end.
 
 **Algorithms** - Set of rules/instructions in problem solving. Step by step instructions for solving a problem.
 
@@ -40,7 +40,7 @@ This is a computer storage location. Imagine asking a user for their names and s
 // Variable Example
 String Movie;  // variable declaration
 
-Movie = "Avengers:End Game";   //variable initialisation
+Movie = "Avengers-End Game";   //variable initialisation
 
 //variable declaration and initialisation
 String MyPlatform = "Coding 101 Platform";
@@ -104,13 +104,81 @@ typeof "foo";
 This includes combination of more than one data type, preferably integers, float and double. These include 
 
 * **Arithmetic** Operators - `+, -, *, modulas(%), /` . 
-* **Assignment** Operator - `=` 
+* **Assignment** Operator - `=`  e.g.  `int x = 100;`  
 * **Logical** Operators - `&&(AND) , OR(||), not(!)` 
-* **Relational** Operators- Used when making comparisons `>, <, >=, <=, equal to(==), not equal to(!=)` 
+* **Relational** Operators- Used when making comparisons `>, <, >=, <=, equal to(==), not equal to(!=)` e.g. \(`10 >= 20) && ('c' == 'd')` 
 
 More advanced operators include **conditional Operator** that uses **ternary operator \(?\)** e.g.
 
 ```text
 expression1 ? expression2 : expression3 ;
 ```
+
+### Comments
+
+### Conditionals Statements
+
+Used to perform different actions based on different conditions. Based on making decisions. The diagram below shows **if....else statement**
+
+![](.gitbook/assets/screenshot-2019-04-22-at-11.24.32.png)
+
+The following are conditions we going to discuss about 
+
+* If statement
+* If ... else statement
+* if ... else if ... statement
+
+**If Statement**
+
+**C**ontrol statements that allows to make decisions and execute statements conditionally. Syntax is as follows:
+
+```text
+if (expression) {
+   Statement(s) to be executed if expression is true
+}
+
+// e.g
+int x = 10;
+if (x > 5) {
+   print('x is greater than 5');
+}
+```
+
+**If ... else Statements**
+
+Allows execution of statements in a more controlled way. Syntax and an example
+
+```text
+if (expression) {
+   Statement(s) to be executed if expression is true
+} else {
+   Statement(s) to be executed if expression is false
+}
+
+// an example
+int x = 10;
+if (x > 5) {
+   print('x is greater than 5');
+} else {
+   print('x is less than 5');
+}
+```
+
+**If ... else if ... Statements**
+
+Advanced form of If ... else statements that allows making correct decisions based on several conditions. Syntax is as below
+
+```text
+if (expression 1) {
+   Statement(s) to be executed if expression 1 is true
+} else if (expression 2) {
+   Statement(s) to be executed if expression 2 is true
+} else if (expression 3) {
+   Statement(s) to be executed if expression 3 is true
+} else {
+   Statement(s) to be executed if no expression is true
+}
+```
+
+
 
