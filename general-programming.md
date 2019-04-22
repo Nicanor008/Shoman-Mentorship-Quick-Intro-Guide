@@ -15,8 +15,7 @@ This section will discuss about the general things that applies to all programmi
 * [x] Comments
 * [x] Conditional Statements
 * [x] Switch statements
-* [ ] Functions
-* [ ] OOP Concepts
+* [x] Functions
 
 We will discuss each and how it applies to programming.
 
@@ -247,5 +246,48 @@ Good job
 
 ### Functions
 
-This is a group of code that does a specific thing. Also a group of re-usable code.
+This is a group of code that does a specific thing. Also a group of re-usable code. `Syntax` 
+
+```text
+function functionname(parameters) {
+    // statements
+}
+```
+
+**Function Declaration** is just like the above function syntax. Just writing group of codes to do specific task
+
+**Function Calling**  is using the function in other places. You just call the function name in several places that needs application. `functionname(arguments)` 
+
+**Parameters** are like variables that are passed into the function
+
+**Arguments** are real values that will replaces the parameters and be used in the function.
+
+```text
+<html>
+   <head>  
+      <script type = "text/javascript">
+         function concatenate(first, last) {
+            var full;
+            full = first + last;
+            return full;
+         }
+         function secondFunction() {
+            var result;
+            result = concatenate('Zara', 'Ali');
+            document.write (result );
+         }
+      </script>      
+   </head>
+   
+   <body>
+      <p>Click the following button to call the function</p>      
+      <form>
+         <input type = "button" onclick = "secondFunction()" value = "Call Function">
+      </form>      
+      <p>Use different parameters inside the function and then try...</p>  
+  </body>
+</html>
+```
+
+
 
