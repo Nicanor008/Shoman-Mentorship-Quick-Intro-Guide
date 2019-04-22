@@ -4,6 +4,10 @@ description: User Driven Events
 
 # JavaScript
 
+{% hint style="info" %}
+Make sure you have gone through[ General programming](https://mentorship101.gitbook.io/mentorship-101/general-programming), this will be a more advanced.
+{% endhint %}
+
 ## What's JavaScript?
 
 Also known as EcmaScript. It's major aim is to allow users interact with HTML elements. It majorly allows page interactivity.
@@ -74,9 +78,7 @@ The button in both codes above has an event `onClick` that recognises the button
 
 What You Will Learn
 
-* [ ] Introduction \(variables, data types, keywords\)
-* [ ] Conditions
-* [ ] Functions
+* [ ] Basic javascript in a simple project
 * [ ] JavaScript OOP
 * [ ] Objects and prototypes
 * [ ] Promises
