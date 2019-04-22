@@ -30,9 +30,10 @@ Good to learn as you `code`.
 * [Version Control](https://mentorship101.gitbook.io/mentorship-101/git-version-control)
 * [HTML](https://mentorship101.gitbook.io/mentorship-101/html)
 * [CSS](https://mentorship101.gitbook.io/mentorship-101/css-basics)
-* JavaScript
+* [JavaScript](https://mentorship101.gitbook.io/mentorship-101/javascript)
 * [API](https://mentorship101.gitbook.io/mentorship-101/api)
-* Soft skills for software developers
+* [Soft skills for software developers](https://mentorship101.gitbook.io/mentorship-101/best-coding-skills)
+* [Career paths](https://mentorship101.gitbook.io/mentorship-101/developer-roadmap)
 
 ### NOT PLEASED/ GOT FEEDBACK
 
@@ -40,11 +41,9 @@ One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feed
 
 ### Who is Behind All This
 
-Created by [Nicanor Korir](https://nicanorkip.herokuapp.com/) `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced.
+Created by [Nicanor Korir](https://nicanorkip.herokuapp.com/) `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced. Novice Spanish learner.
 
-![Nic Korir](.gitbook/assets/screenshot-2019-04-18-at-18.20.32.png)
-
-Want a talk, find me on [Twitter](https://twitter.com/nic_korir).
+Want a chat, find me on [Twitter](https://twitter.com/nic_korir).
 
 ### Join me as a Contributor to this
 
