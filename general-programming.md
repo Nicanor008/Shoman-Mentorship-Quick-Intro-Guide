@@ -8,9 +8,13 @@ This section will discuss about the general things that applies to all programmi
 
 * [x] What is programming
 * [x] Variables
+* [x] Constants
 * [x] Data types
 * [x] Keywords
-* [ ] Conditional Statements
+* [x] Operators
+* [x] Comments
+* [x] Conditional Statements
+* [x] Switch statements
 * [ ] Functions
 * [ ] OOP Concepts
 
@@ -116,6 +120,14 @@ expression1 ? expression2 : expression3 ;
 
 ### Comments
 
+Used by programmers to explain their code. Cannot be read by the program during execution. Every language has its own syntax of writing comments e.g.
+
+```text
+// this is a javascript/java comment
+<!-- HTML Comment -->
+# PHP comment
+```
+
 ### Conditionals Statements
 
 Used to perform different actions based on different conditions. Based on making decisions. The diagram below shows **if....else statement**
@@ -180,5 +192,60 @@ if (expression 1) {
 }
 ```
 
+### Switch Statements
 
+This is an alternative of **If ... else statements** by minimising the repeated statements. Flowchart is as shown below
+
+![](.gitbook/assets/screenshot-2019-04-22-at-11.45.42.png)
+
+**Syntax**
+
+```text
+switch (expression) {
+   case condition 1: statement(s)
+   break;
+   
+   case condition 2: statement(s)
+   break;
+   ...
+   
+   case condition n: statement(s)
+   break;
+   
+   default: statement(s)
+}
+// Note - Default is there so that if all the other case won't execute
+          Break is used to exit out of that case and stop execution
+```
+
+**An example of Switch statements**
+
+```text
+char grade = 'A';
+switch (grade) {
+   case 'A': print("Good job<br />");
+            break;
+
+   case 'B': print("Pretty good<br />");
+            break;
+
+   case 'C': print("Passed<br />");
+            break;
+
+   case 'D': print("Not so good<br />");
+            break;
+
+   case 'F': print("Failed<br />");
+            break;
+
+   default:  print("Unknown grade<br />")
+}
+
+// Result
+Good job
+```
+
+### Functions
+
+This is a group of code that does a specific thing. Also a group of re-usable code.
 
