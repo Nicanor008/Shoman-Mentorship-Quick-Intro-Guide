@@ -3,6 +3,7 @@
 * [Coding 101](README.md)
 * [Best Coding Skills](best-coding-skills.md)
 * [Developer RoadMap](developer-roadmap.md)
+* [Project Management](project-management.md)
 * [GIT - Version Control](git-version-control.md)
 * [HTML BASICS](html.md)
 * [CSS](css-basics/README.md)
