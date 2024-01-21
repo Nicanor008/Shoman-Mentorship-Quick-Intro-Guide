@@ -6,9 +6,9 @@ description: What's all this
 
 ## Overview
 
-Coding 101 **key focus is to help those who have interest in learning software development on where and how to start.**
+Coding 101 **key focus is to help those who have an interest in learning software development on where and how to start.**
 
-Aim - **Provide Guidance to beginners or anyone with need in software path**
+Aim - **Provide Guidance to beginners or anyone with a need in software path**
 
 ### **What You will find here**
 
@@ -19,9 +19,9 @@ Aim - **Provide Guidance to beginners or anyone with need in software path**
 
 ### Keep in Mind that
 
-Everything has been simplified to find, read, use and understand. 
+Everything has been simplified to find, read, use, and understand. 
 
-**Note:** If you already understand something, you can skip by just using the menu navigation bar and go through Other advanced part. Also there are links to more advanced stuff\(`coz mostly these are basics`\).
+**Note:** If you already understand something, you can skip by just using the menu navigation bar and go through the Other advanced part. Also, there are links to more advanced stuff\(`coz mostly these are basics`\).
 
 Good to learn as you `code`.
 
@@ -37,17 +37,17 @@ Good to learn as you `code`.
 
 ### NOT PLEASED/ GOT FEEDBACK
 
-One of the thing we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway?You got anything, Send your feedback on [this google form](https://forms.gle/pXbfvrNVbaUewfJp8) 
+One of the things we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway? You got anything, Send your feedback on [this google form](https://forms.gle/pXbfvrNVbaUewfJp8) 
 
 ### Who is Behind All This
 
-Created by [Nicanor Korir](https://nicanorkip.herokuapp.com/) `Nic`, a Software Engineer at [Andela](https://andela.com/). Focused on JavaScript, but also got knowledge in python, php and android. Fun learner lover of Machine learning. I love influencing personal development, so let's get influenced. Novice Spanish learner.
+Created by [Nicanor Korir](https://nicanor.me/), a Software Engineer. I love influencing personal development, so let's get influenced. Novice Spanish learner.
 
-Want a chat, find me on [Twitter](https://twitter.com/nic_korir).
+Want a chat, find me on [Twitter](https://twitter.com/nic__anor).
 
 ### Join me as a Contributor to this
 
-You believe you got what it takes to showcase your knowledge here, feel free to join me up on [github](https://github.com/Nicanor008/Mentorship-101). You got this dude.
+If you believe you have what it takes to showcase your knowledge here, feel free to join me on [github](https://github.com/Nicanor008/Mentorship-101). You got this dude.
 
 {% hint style="info" %}
 > Always adhere to KISS Principle \(Keep It Simple, Stupid\)
