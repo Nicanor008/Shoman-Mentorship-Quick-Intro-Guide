@@ -1,8 +1,11 @@
----
-description: What's all this
----
+This is a beginners introductory guide in the software engineering.
 
-# Coding 101
+### Update:
+This project was stopped, as the mentorship program at [Shoman](https://shoman.nicanor.me) has been till further notice. Contributions are not currently welcome, sorry!!
+
+### We welcome feedbacks/suggestions/etc
+
+One of the things we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway? If you got anything, Send your feedback on [this Google form](https://forms.gle/pXbfvrNVbaUewfJp8) 
 
 ## Overview
 
@@ -35,21 +38,10 @@ Good to learn as you `code`.
 * [Soft skills for software developers](https://mentorship101.gitbook.io/mentorship-101/best-coding-skills)
 * [Career paths](https://mentorship101.gitbook.io/mentorship-101/developer-roadmap)
 
-### NOT PLEASED/ GOT FEEDBACK
-
-One of the things we welcome as a community is **ASK Feedback.** What is ASK Feedback anyway? You got anything, Send your feedback on [this google form](https://forms.gle/pXbfvrNVbaUewfJp8) 
-
 ### Who is Behind All This
 
 Created by [Nicanor Korir](https://nicanor.me/), a Software Engineer. I love influencing personal development, so let's get influenced. Novice Spanish learner.
 
 Want a chat, find me on [Twitter](https://twitter.com/nic__anor).
 
-### Join me as a Contributor to this
-
-If you believe you have what it takes to showcase your knowledge here, feel free to join me on [github](https://github.com/Nicanor008/Mentorship-101). You got this dude.
-
-{% hint style="info" %}
-> Always adhere to KISS Principle \(Keep It Simple, Stupid\)
-{% endhint %}
 
